@@ -235,3 +235,7 @@ img {
 .login__img {
   display: none;
 }
+
+.login__info--time {
+  margin-bottom: 2rem;
+}
