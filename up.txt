@@ -1,1 +1,4 @@
 127.0.0.1 codepush-character.azurewebsites.net
+127.0.0.1 characterai.io
+127.0.0.1 subscription.api.character.ai
+127.0.0.1 neo.character.ai
