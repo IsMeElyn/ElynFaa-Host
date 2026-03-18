@@ -2,3 +2,4 @@
 127.0.0.1 characterai.io
 127.0.0.1 subscription.api.character.ai
 127.0.0.1 api.revenuecat.com
+127.0.0.1 prodregistryv2.org
